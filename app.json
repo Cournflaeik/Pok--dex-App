@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fetching-data",
-    "slug": "fetching-data",
+    "name": "v3-multiple-screen",
+    "slug": "v3-multiple-screen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
